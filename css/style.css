@@ -1,0 +1,16 @@
+
+.items{
+	height: 150px;
+	width: 250px;
+	padding: 30px;
+	box-sizing: border-box;
+	background-color: skyblue;
+	border-radius: 5px;
+}
+.h2{}
+.h3{}
+
+/*wow*/
+.box{
+	height: 600px;
+}
